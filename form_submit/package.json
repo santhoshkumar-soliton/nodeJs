@@ -1,0 +1,20 @@
+{
+  "name": "form_submit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soliton_form.js",
+  "scripts": {
+    "devStart" : "nodemon soliton_form.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}
